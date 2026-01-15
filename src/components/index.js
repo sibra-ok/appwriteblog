@@ -5,7 +5,7 @@ import Logo from "./Logo";
 import LogoutBtn from "./Header/LogoutBtn";
 import RTE from "./RTE";
 import Login from "./Login"
-import PostForm from "./post-form/postform";
+import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard"
 import AuthLayout from "./AuthLayout"
 import Select from "./Select"
